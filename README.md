@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="invent-word-01 logo"/>
+
+**Wavegrief — a word for waving back at someone who was waving at someone behind you.**
+
+![language](https://img.shields.io/badge/language-Python-0A1931?style=for-the-badge&labelColor=FF7A00)
+![license](https://img.shields.io/badge/license-MIT-0A1931?style=for-the-badge&labelColor=FF7A00)
+![studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+
+</div>
+
 # invent-word-01
 
 [![make.fun · u-deranalabs-invent-a-word-we-need-17a020e0](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0)
